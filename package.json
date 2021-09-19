@@ -1,0 +1,24 @@
+{
+  "name": "-goit-js-hw-09",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index1.html",
+    "build": "parcel build src/index1.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaKireyeva/-goit-js-hw-09.git"
+  },
+  "keywords": [],
+  "author": "Anna Kireyeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaKireyeva/-goit-js-hw-09/issues"
+  },
+  "homepage": "https://github.com/AnnaKireyeva/-goit-js-hw-09#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
